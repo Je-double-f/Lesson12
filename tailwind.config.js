@@ -9,6 +9,10 @@ module.exports = {
         'lg' : '767px',
         'xl' : '992px',
         '2xl' : '1280px',
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/img/hero-pattern.svg')",
+        'footer-texture': "url('/img/footer-texture.png')",
       }
     },
   },
